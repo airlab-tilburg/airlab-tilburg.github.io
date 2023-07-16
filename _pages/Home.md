@@ -31,6 +31,7 @@ The AI for Robotics Lab (AIR-Lab) at Tilburg University focuses on recent advanc
   <th colspan="2"><h5>PhD and MSc Students</h5></th>
   </tr>
   <tr>
+    <th class="members"><img src="assets/img/members/bosong.jpeg" width="100px" style="padding:5px" /><br />Bosong Ding</th>
   </tr>
 </table>
 
