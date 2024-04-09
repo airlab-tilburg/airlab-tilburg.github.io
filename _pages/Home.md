@@ -26,15 +26,6 @@ The AI for Robotics Lab (AIR-Lab) at Tilburg University focuses on recent advanc
   </tr>
 </table>
 
-<!--<table>
-  <tr>
-  <th colspan="2"><h5>Visiting Researchers</h5></th>
-  </tr>
-  <tr>
-    <th class="members"><img src="assets/img/members/nicole.jpg" width="140px" style="padding:5px" /><br />Nicole van Geel<br/>(University of Klagenfurt)</th>
-  </tr>
-</table>-->
-
 <table>
   <tr>
   <th colspan="2"><h5>PhD and MSc Students</h5></th>
@@ -53,5 +44,15 @@ The AI for Robotics Lab (AIR-Lab) at Tilburg University focuses on recent advanc
   </tr>
 </table>
 -->
+
+
+<table>
+  <tr>
+  <th colspan="2"><h5>AIR-Lab Alumni and Past Members</h5></th>
+  </tr>
+  <tr>
+    <th class="members"><img src="assets/img/members/nicole.jpg" width="140px" style="padding:5px" /><br />Nicole van Geel<br/>(University of Klagenfurt)</th>
+  </tr>
+</table>
 
 <br />
