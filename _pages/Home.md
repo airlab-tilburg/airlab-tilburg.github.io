@@ -21,8 +21,8 @@ The AI for Robotics Lab (AIR-Lab) at Tilburg University focuses on recent advanc
   <th colspan="2"><h5>Lab Coordinators</h5></th>
   </tr>
   <tr>
-    <th class="members"><img src="assets/img/members/murat.png" width="140px" style="padding:5px" /><br />Dr. Murat Kirtay<br/><p style="font-size:smaller">(Assistant Professor)</p></th>
-    <th class="members"><img src="assets/img/members/giacomo.png" width="100px" style="padding:5px" /><br />Dr. Giacomo Spigler<br/><p style="font-size:10pt">(Assistant Professor)</p></th>
+    <th class="members"><img src="assets/img/members/murat.png" width="140px" style="padding:5px" /><br />Dr. Murat Kirtay</th>
+    <th class="members"><img src="assets/img/members/giacomo.png" width="100px" style="padding:5px" /><br />Dr. Giacomo Spigler</th>
   </tr>
 </table>
 
@@ -32,7 +32,7 @@ The AI for Robotics Lab (AIR-Lab) at Tilburg University focuses on recent advanc
   </tr>
   <tr>
     <th class="members"><img src="assets/img/members/giacomo.png" width="140px" style="padding:5px" /><br />Dr. Eriko Fukuda</th>
-    <th class="members"><img src="assets/img/members/merel.webp" width="140px" style="padding:5px" /><br />Dr. Merel Jung<br/><h4>(Assistant Professor)</h4></th>
+    <th class="members"><img src="assets/img/members/merel.webp" width="140px" style="padding:5px" /><br />Dr. Merel Jung</th>
   </tr>
 </table>
 
