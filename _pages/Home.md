@@ -21,8 +21,8 @@ The AI for Robotics Lab (AIR-Lab) at Tilburg University focuses on recent advanc
   <th colspan="2"><h5>Lab Coordinators</h5></th>
   </tr>
   <tr>
-    <th class="members"><img src="assets/img/members/murat.png" width="140px" style="padding:5px" /><br />Dr. Murat Kirtay<br/><h4>(Assistant Professor)</h4></th>
-    <th class="members"><img src="assets/img/members/giacomo.png" width="100px" style="padding:5px" /><br />Dr. Giacomo Spigler</th>
+    <th class="members"><img src="assets/img/members/murat.png" width="140px" style="padding:5px" /><br />Dr. Murat Kirtay<br/><p style="font-size:smaller">(Assistant Professor)</p></th>
+    <th class="members"><img src="assets/img/members/giacomo.png" width="100px" style="padding:5px" /><br />Dr. Giacomo Spigler<br/><p style="font-size:10pt">(Assistant Professor)</p></th>
   </tr>
 </table>
 
@@ -58,7 +58,7 @@ The AI for Robotics Lab (AIR-Lab) at Tilburg University focuses on recent advanc
 
 <table>
   <tr>
-  <th colspan="2"><h5>AIR-Lab Alumni and Past Members</h5></th>
+  <th colspan="2"><h5>Past Members</h5></th>
   </tr>
   <tr>
     <th class="members"><img src="assets/img/members/nicole.jpg" width="140px" style="padding:5px" /><br />Nicole van Geel<br/>(University of Klagenfurt)</th>
