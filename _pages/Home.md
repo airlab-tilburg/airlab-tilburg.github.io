@@ -22,7 +22,7 @@ The AI for Robotics Lab (AIR-Lab) at Tilburg University focuses on recent advanc
   </tr>
   <tr>
     <th class="members"><img src="assets/img/members/murat.png" width="140px" style="padding:5px" /><br />Dr. Murat Kirtay</th>
-    <th class="members"><img src="assets/img/members/giacomo.png" width="100px" style="padding:5px" /><br />Dr. Giacomo Spigler</th>
+    <a href="http://www.spigler.net/giacomo"><th class="members"><img src="assets/img/members/giacomo.png" width="100px" style="padding:5px" /><br />Dr. Giacomo Spigler</th></a>
   </tr>
 </table>
 
