@@ -37,11 +37,6 @@
     
     <!-- Dark Mode -->
     
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
-
-    <script src="/assets/js/theme.js"></script>
-    <script src="/assets/js/dark_mode.js"></script>
-    
 
   </head>
 
@@ -87,14 +82,6 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/contact">Contact</a>
               </li>
-
-              <!-- Toogle theme mode -->
-              <li class="toggle-container">
-                <button id="light-toggle" title="Change theme">
-                  <i class="fas fa-moon"></i>
-                  <i class="fas fa-sun"></i>
-                </button>
-              </li>
             </ul>
           </div>
         </div>
@@ -125,6 +112,65 @@
   <h2 class="year">2023</h2>
   <ol class="bibliography"></ol>
 
+  <h2 class="year">2024</h2>
+  <ol class="bibliography"><li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="spigler2024intuitive" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Intuitive Engineering as a Proxy Facilitates the Evolutionary Optimization of an Underactuated Robot Ball</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <a href="http://www.spigler.net/giacomo" rel="external nofollow noopener" target="_blank">Giacomo Spigler</a>, Simone Silenzi, Bart Horstman, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'Heike Vallery' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>In Workshop on Embodiment-Aware Robot Learning @ RSS 2024</em>, 2024
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="/assets/pdf/spigler_earl_rss24.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="https://simone.science/intuitive-proxy/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Website</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Underactuation can enable low-cost, light-weight robotics. However, their design is challenging. While classical engineering intuition often leads to reasonable hardware and control choices that ensure basic functionality, the resulting performance is usually low. In contrast, purely data-driven co-evolution of hardware and software conventionally needs high computational effort to deliver meaningful results. We propose to leverage the advantages of both approaches by using classical intuitive controllers as proxies. As an example, we consider “Fizzy,” an underactuated robotic ball that leverages a unique single-motor configuration in combination with dynamic imbalance for movement. In a first optimization, an intuitive Virtual Model Control (VMC) proxy serves to quickly evaluate various design parameters like motor mass and axle positioning for a Covariance Matrix Adaptation Evolution Strategy (CMA-ES). The optimized configurations then serve as a foundation for training more sophisticated deep reinforcement learning (DRL) controllers. Our methodology underscores the potential of integrating intuitive proxies with evolutionary algorithms to enhance the performance and efficiency of underactuated robotic systems, paving the way for more adaptable and cost-effective robotic designs.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
 
 </div>
 
@@ -137,7 +183,7 @@
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        © Copyright 2023   AIR-Lab. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>.
+        © Copyright 2024   AIR-Lab. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>.
 
       </div>
     </footer>
