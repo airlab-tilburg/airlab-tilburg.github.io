@@ -38,11 +38,13 @@ The AI for Robotics Lab (AIR-Lab) at Tilburg University focuses on recent advanc
 
 <table>
   <tr>
-  <th colspan="2"><h5>PhD and MSc Students</h5></th>
+  <th colspan="2"><h5>Lab Members</h5></th>
   </tr>
   <tr>
-    <th class="members"><img src="assets/img/members/bosong.jpeg" width="140px" style="padding:5px" /><br />Bosong Ding</th>
+    <th class="members"><img src="assets/img/members/bosong.jpeg" width="140px" style="padding:5px" /><br />Bosong Ding (PhD)</th>
+    <th class="members"><img src="assets/img/members/kyana.webp" width="140px" style="padding:5px" /><br />Kyana van Eijndhoven (Postdoc)</th>
   </tr>
+
 </table>
 
 <!--
